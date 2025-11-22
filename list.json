@@ -1,10 +1,10 @@
 [
   {
-    "id": "meta_01",
+    "id": "meta_01_fix",
     "type": "track",
     "cat": "fairytale",
     "title": "变形记",
-    "desc": "卡夫卡 - 第一章",
+    "desc": "卡夫卡 - 第一章 (高清修复版)",
     "src": "https://cdn.jsdelivr.net/gh/edhliu10-cpu/sleep-assets@main/story01.mp3"
   }
 ]
